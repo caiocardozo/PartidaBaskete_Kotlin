@@ -1,8 +1,8 @@
 # Partida de Basquete Kotlin
 
-   Durate meu aprendizado com a linguagem Kotlin resolvi compartilhar o conhecimento adquirido. Para que desta forma outros iniciantes com a linguagem tenham mais facilidade em aprender.
+   Durante meu aprendizado com a linguagem Kotlin resolvi compartilhar o conhecimento adquirido. Para que outros iniciantes com a linguagem tenham mais facilidade em aprender.
    
-   Utilizando a linguagem desenvolvi um simples aplicativo Android que marca o placar de uma partida de basquete. No aplicativo é possível adicionar pontos para o os dois times e tambm reiniciar a partida.
+   Utilizando a linguagem desenvolvi um simples aplicativo Android que marca o placar de uma partida de basquete. No aplicativo é possível adicionar pontos para o os dois times e também reiniciar a partida.
 
   Conforme eu for adquirindo mais conhecimento, vou melhorando o aplicativo e inserindo mais funcionalidades.
   
